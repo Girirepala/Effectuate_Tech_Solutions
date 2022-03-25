@@ -6,7 +6,7 @@ Configuration and Execution Steps:
     npm install 
     node index.js
 4. Once server started, Hit the API like below in browser:
-    http://localhost:3000/<vehicalRegistrationNo>
+   'http://localhost:3000/<vehicalRegistrationNo>'
     Ex:    http://localhost:3000/TS08A0004
 
 
